@@ -1,0 +1,7244 @@
+fileFormatVersion: 2
+guid: 88251b6e987c342a48013ece9a573df4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5360229788060024177
+    second: Octopath_0
+  - first:
+      213: -2015689270376999192
+    second: Octopath_1
+  - first:
+      213: 3834028399410349461
+    second: Octopath_2
+  - first:
+      213: -9009086334020898085
+    second: Octopath_3
+  - first:
+      213: -7863209506326564984
+    second: Octopath_4
+  - first:
+      213: -5991916168848416618
+    second: Octopath_5
+  - first:
+      213: -6186306343675378843
+    second: Octopath_6
+  - first:
+      213: 3167579627760787885
+    second: Octopath_7
+  - first:
+      213: 3678508113606498583
+    second: Octopath_8
+  - first:
+      213: -2951058796905632122
+    second: Octopath_9
+  - first:
+      213: -1763734214299560250
+    second: Octopath_10
+  - first:
+      213: 7508653190078918511
+    second: Octopath_11
+  - first:
+      213: -2141295596145401072
+    second: Octopath_12
+  - first:
+      213: 8868635691307998099
+    second: Octopath_13
+  - first:
+      213: -8403627300736612902
+    second: Octopath_14
+  - first:
+      213: 9059910195788024478
+    second: Octopath_15
+  - first:
+      213: 6277991830693358653
+    second: Octopath_16
+  - first:
+      213: -7709457950423752045
+    second: Octopath_17
+  - first:
+      213: 2181923133353756080
+    second: Octopath_18
+  - first:
+      213: -2451940986854384731
+    second: Octopath_19
+  - first:
+      213: 556444226601487095
+    second: Octopath_20
+  - first:
+      213: -5577509667059067614
+    second: Octopath_21
+  - first:
+      213: -1698857506238398381
+    second: Octopath_22
+  - first:
+      213: 5786704073115879260
+    second: Octopath_23
+  - first:
+      213: 2698432399291164320
+    second: Octopath_0
+  - first:
+      213: 4248656392606233121
+    second: Octopath_1
+  - first:
+      213: -3096604839197694371
+    second: Octopath_2
+  - first:
+      213: -135521092802865159
+    second: Octopath_3
+  - first:
+      213: -9151120733974332195
+    second: Octopath_4
+  - first:
+      213: 3731816701037137961
+    second: Octopath_5
+  - first:
+      213: 1235046826316692773
+    second: Octopath_6
+  - first:
+      213: -2975463196532350725
+    second: Octopath_7
+  - first:
+      213: 906333976483085765
+    second: Octopath_8
+  - first:
+      213: 4013417861863415052
+    second: Octopath_9
+  - first:
+      213: 1676543854900973054
+    second: Octopath_10
+  - first:
+      213: -354545353464754490
+    second: Octopath_11
+  - first:
+      213: -8360488747039428420
+    second: Octopath_12
+  - first:
+      213: 1854374579336374961
+    second: Octopath_13
+  - first:
+      213: 5100509455023404179
+    second: Octopath_14
+  - first:
+      213: 5563605937370203383
+    second: Octopath_15
+  - first:
+      213: -3177531943302537091
+    second: Octopath_16
+  - first:
+      213: 8039917471977014606
+    second: Octopath_17
+  - first:
+      213: 2288886205792409181
+    second: Octopath_18
+  - first:
+      213: 1782294316874951250
+    second: Octopath_19
+  - first:
+      213: -8658272280275801532
+    second: Octopath_20
+  - first:
+      213: 5340111384248357739
+    second: Octopath_21
+  - first:
+      213: -4960120382163191325
+    second: Octopath_22
+  - first:
+      213: -4860520373446147756
+    second: Octopath_23
+  - first:
+      213: -69563382586717459
+    second: Octopath_24
+  - first:
+      213: -4281571631635054959
+    second: Octopath_25
+  - first:
+      213: -7871892689468367750
+    second: Octopath_26
+  - first:
+      213: 1892495820498685465
+    second: Octopath_27
+  - first:
+      213: 8049860400880899595
+    second: Octopath_28
+  - first:
+      213: 398232774584138425
+    second: Octopath_29
+  - first:
+      213: 4205081499453642587
+    second: Octopath_30
+  - first:
+      213: 742008152243360303
+    second: Octopath_31
+  - first:
+      213: 8354712602158627611
+    second: Octopath_32
+  - first:
+      213: 7005715686155942017
+    second: Octopath_33
+  - first:
+      213: -1297742741771220772
+    second: Octopath_34
+  - first:
+      213: -8497686299282608853
+    second: Octopath_35
+  - first:
+      213: 1643864699003485421
+    second: Octopath_36
+  - first:
+      213: 3572151568704174613
+    second: Octopath_37
+  - first:
+      213: 6604061807940446671
+    second: Octopath_38
+  - first:
+      213: -6262342477346510132
+    second: Octopath_39
+  - first:
+      213: 1126967133381842455
+    second: Octopath_40
+  - first:
+      213: 8738548192800411203
+    second: Octopath_41
+  - first:
+      213: 4332814325664359632
+    second: Octopath_42
+  - first:
+      213: -2176909710283418391
+    second: Octopath_43
+  - first:
+      213: -2338964571230345591
+    second: Octopath_44
+  - first:
+      213: -1760416089328174646
+    second: Octopath_45
+  - first:
+      213: -4424828052119379057
+    second: Octopath_46
+  - first:
+      213: 7217820657350067697
+    second: Octopath_47
+  - first:
+      213: -7914450556047919274
+    second: Octopath_48
+  - first:
+      213: 4326155639452402733
+    second: Octopath_49
+  - first:
+      213: 8328488448916453919
+    second: Octopath_50
+  - first:
+      213: -8901819314797601205
+    second: Octopath_51
+  - first:
+      213: -1730786522979665897
+    second: Octopath_52
+  - first:
+      213: -4754942045490533881
+    second: Octopath_53
+  - first:
+      213: -3159269450869920736
+    second: Octopath_54
+  - first:
+      213: -8658034909771391473
+    second: Octopath_55
+  - first:
+      213: 4253107187983024149
+    second: Octopath_56
+  - first:
+      213: -4754600799845659409
+    second: Octopath_57
+  - first:
+      213: -5024977129031116113
+    second: Octopath_58
+  - first:
+      213: -6181560018277496473
+    second: Octopath_59
+  - first:
+      213: -5267370240653684012
+    second: Octopath_60
+  - first:
+      213: -4275293578202255500
+    second: Octopath_61
+  - first:
+      213: 4118312198203634978
+    second: Octopath_62
+  - first:
+      213: -8133769856732508152
+    second: Octopath_63
+  - first:
+      213: 5683300776408150521
+    second: Octopath_64
+  - first:
+      213: -4912913913354538537
+    second: Octopath_65
+  - first:
+      213: 4905097175191893681
+    second: Octopath_66
+  - first:
+      213: -9145698894622266225
+    second: Octopath_67
+  - first:
+      213: 2102887495403053909
+    second: Octopath_68
+  - first:
+      213: -4642006975983017294
+    second: Octopath_69
+  - first:
+      213: 8621426582505440663
+    second: Octopath_70
+  - first:
+      213: -5365863609590991103
+    second: Octopath_71
+  - first:
+      213: 5236175917841119758
+    second: Octopath_72
+  - first:
+      213: 8639118141796085983
+    second: Octopath_73
+  - first:
+      213: 961250700130848005
+    second: Octopath_74
+  - first:
+      213: 2473393010143683379
+    second: Octopath_75
+  - first:
+      213: -5817443503093166740
+    second: Octopath_76
+  - first:
+      213: -7553538206698992952
+    second: Octopath_77
+  - first:
+      213: -1903880816176357313
+    second: Octopath_78
+  - first:
+      213: -5737018933344032346
+    second: Octopath_79
+  - first:
+      213: -3650170774445230467
+    second: Octopath_80
+  - first:
+      213: -1779920546818299000
+    second: Octopath_81
+  - first:
+      213: 7499895716567340214
+    second: Octopath_82
+  - first:
+      213: -559351961334111366
+    second: Octopath_83
+  - first:
+      213: 6095152182215125281
+    second: Octopath_84
+  - first:
+      213: -8796449194296343628
+    second: Octopath_85
+  - first:
+      213: -2115121684079322722
+    second: Octopath_86
+  - first:
+      213: -4813593411993711700
+    second: Octopath_87
+  - first:
+      213: 6470640548715830789
+    second: Octopath_88
+  - first:
+      213: -2217276365978816034
+    second: Octopath_89
+  - first:
+      213: -4796735972090344393
+    second: Octopath_90
+  - first:
+      213: -8859294693974514857
+    second: Octopath_91
+  - first:
+      213: -947982069673180671
+    second: Octopath_92
+  - first:
+      213: 5114780728976235471
+    second: Octopath_93
+  - first:
+      213: -6664284392840569997
+    second: Octopath_94
+  - first:
+      213: 3710382791219554040
+    second: Octopath_95
+  - first:
+      213: 2948220246615258330
+    second: Octopath_96
+  - first:
+      213: -7198990876754173408
+    second: Octopath_97
+  - first:
+      213: -6633577665079852693
+    second: Octopath_98
+  - first:
+      213: 7531175930088859058
+    second: Octopath_99
+  - first:
+      213: -2542454417401496274
+    second: Octopath_100
+  - first:
+      213: -3976331409574111288
+    second: Octopath_101
+  - first:
+      213: -2251563928916165038
+    second: Octopath_102
+  - first:
+      213: -7825515343157178446
+    second: Octopath_103
+  - first:
+      213: -2314286521291375267
+    second: Octopath_104
+  - first:
+      213: -8364950549000062111
+    second: Octopath_105
+  - first:
+      213: -3511154192908731451
+    second: Octopath_106
+  - first:
+      213: 8566547591437023232
+    second: Octopath_107
+  - first:
+      213: 1581345357766825469
+    second: Octopath_108
+  - first:
+      213: -128267700692111481
+    second: Octopath_109
+  - first:
+      213: 1055712830504257587
+    second: Octopath_110
+  - first:
+      213: 8861337940462553078
+    second: Octopath_111
+  - first:
+      213: 574968003356717915
+    second: Octopath_112
+  - first:
+      213: -174433676599069911
+    second: Octopath_113
+  - first:
+      213: 5339762800319639684
+    second: Octopath_114
+  - first:
+      213: -268649572094179074
+    second: Octopath_115
+  - first:
+      213: -3660722186741635957
+    second: Octopath_116
+  - first:
+      213: -2183375281341744724
+    second: Octopath_117
+  - first:
+      213: 7000162512517882164
+    second: Octopath_118
+  - first:
+      213: 8768576294598876164
+    second: Octopath_119
+  - first:
+      213: 8928406686929822143
+    second: Octopath_120
+  - first:
+      213: -2958053072454447270
+    second: Octopath_121
+  - first:
+      213: 1631183716598462992
+    second: Octopath_122
+  - first:
+      213: 1145598024791621382
+    second: Octopath_123
+  - first:
+      213: -737280836365065280
+    second: Octopath_124
+  - first:
+      213: 5535484510608682911
+    second: Octopath_125
+  - first:
+      213: 4282990418351007310
+    second: Octopath_126
+  - first:
+      213: -7498941928552815725
+    second: Octopath_127
+  - first:
+      213: 1748256971474141246
+    second: Octopath_128
+  - first:
+      213: -3775620053968078890
+    second: Octopath_129
+  - first:
+      213: 3564420313881105722
+    second: Octopath_130
+  - first:
+      213: 5785865372730856173
+    second: Octopath_131
+  - first:
+      213: -8974216536878094661
+    second: Octopath_132
+  - first:
+      213: 5513178760980162442
+    second: Octopath_133
+  - first:
+      213: -7002576873951826036
+    second: Octopath_134
+  - first:
+      213: 6787409127997662027
+    second: Octopath_135
+  - first:
+      213: 5784783071127732653
+    second: Octopath_136
+  - first:
+      213: -5952276483366411795
+    second: Octopath_137
+  - first:
+      213: -1481974182772595288
+    second: Octopath_138
+  - first:
+      213: -1780492356176564161
+    second: Octopath_139
+  - first:
+      213: -5839135296520476825
+    second: Octopath_140
+  - first:
+      213: -2914805491418824037
+    second: Octopath_141
+  - first:
+      213: -1119569454236453270
+    second: Octopath_142
+  - first:
+      213: -6100734600168411608
+    second: Octopath_143
+  - first:
+      213: 8222911277315816471
+    second: Octopath_144
+  - first:
+      213: -2765993956900219746
+    second: Octopath_145
+  - first:
+      213: 677594649350141399
+    second: Octopath_146
+  - first:
+      213: 3590183479309349358
+    second: Octopath_147
+  - first:
+      213: 4558932253235676075
+    second: Octopath_148
+  - first:
+      213: 7678922301282372140
+    second: Octopath_149
+  - first:
+      213: -6128955517631731262
+    second: Octopath_150
+  - first:
+      213: -7433759645541803139
+    second: Octopath_151
+  - first:
+      213: 8175457930787273300
+    second: Octopath_152
+  - first:
+      213: -6557386077726437088
+    second: Octopath_153
+  - first:
+      213: 8621569323926065706
+    second: Octopath_154
+  - first:
+      213: -8052361763594278094
+    second: Octopath_155
+  - first:
+      213: 3397651454848754129
+    second: Octopath_156
+  - first:
+      213: -980976085901418630
+    second: Octopath_157
+  - first:
+      213: 2610500584422821695
+    second: Octopath_158
+  - first:
+      213: -3494393271163390466
+    second: Octopath_159
+  - first:
+      213: -8487751622329212855
+    second: Octopath_160
+  - first:
+      213: -5977469066297642929
+    second: Octopath_161
+  - first:
+      213: -4334221838103921490
+    second: Octopath_162
+  - first:
+      213: 5932820961479189783
+    second: Octopath_163
+  - first:
+      213: -3199067879727110741
+    second: Octopath_164
+  - first:
+      213: -7683486165409047938
+    second: Octopath_165
+  - first:
+      213: -4169658422367183020
+    second: Octopath_166
+  - first:
+      213: -6777769584758351759
+    second: Octopath_167
+  - first:
+      213: -8045908868284661267
+    second: Octopath_168
+  - first:
+      213: 8044030010887623110
+    second: Octopath_169
+  - first:
+      213: 1970230469329804609
+    second: Octopath_170
+  - first:
+      213: -7805462048394010818
+    second: Octopath_171
+  - first:
+      213: -5456207584280563772
+    second: Octopath_172
+  - first:
+      213: 8912722654443172193
+    second: Octopath_173
+  - first:
+      213: -4815662285363324476
+    second: Octopath_174
+  - first:
+      213: 6933252530729001151
+    second: Octopath_175
+  - first:
+      213: 734759428012732695
+    second: Octopath_176
+  - first:
+      213: -1770848448144475472
+    second: Octopath_177
+  - first:
+      213: 3180901376417914860
+    second: Octopath_178
+  - first:
+      213: 6822811969993537742
+    second: Octopath_179
+  - first:
+      213: -2358127042230043586
+    second: Octopath_180
+  - first:
+      213: 4318940697098479827
+    second: Octopath_181
+  - first:
+      213: -1313935612418392156
+    second: Octopath_182
+  - first:
+      213: -6765231203692146524
+    second: Octopath_183
+  - first:
+      213: -1737284593532583545
+    second: Octopath_184
+  - first:
+      213: 2142619221629992303
+    second: Octopath_185
+  - first:
+      213: 8373632951460468280
+    second: Octopath_186
+  - first:
+      213: -1862448971159807202
+    second: Octopath_187
+  - first:
+      213: -8211440246595702126
+    second: Octopath_188
+  - first:
+      213: -2790305075373845273
+    second: Octopath_189
+  - first:
+      213: 7012339085935009623
+    second: Octopath_190
+  - first:
+      213: 8520488711086107612
+    second: Octopath_191
+  - first:
+      213: 6050864831295135415
+    second: Octopath_192
+  - first:
+      213: 1392105087810708552
+    second: Octopath_193
+  - first:
+      213: 2893952749725480660
+    second: Octopath_194
+  - first:
+      213: 5829442792095198474
+    second: Octopath_195
+  - first:
+      213: 5186743424809100482
+    second: Octopath_196
+  - first:
+      213: 8485388853078641301
+    second: Octopath_197
+  - first:
+      213: 1342251941461094536
+    second: Octopath_198
+  - first:
+      213: -5270604421205026832
+    second: Octopath_199
+  - first:
+      213: -4426892099446127060
+    second: Octopath_200
+  - first:
+      213: 8212507235049105119
+    second: Octopath_201
+  - first:
+      213: -9199990967738849163
+    second: Octopath_202
+  - first:
+      213: 2520064848877193677
+    second: Octopath_203
+  - first:
+      213: 7181570015114224330
+    second: Octopath_204
+  - first:
+      213: -1770667529732681863
+    second: Octopath_205
+  - first:
+      213: -4750765641493127656
+    second: Octopath_206
+  - first:
+      213: -1270005621617259940
+    second: Octopath_207
+  - first:
+      213: -2264807029617382211
+    second: Octopath_208
+  - first:
+      213: -2723693176159563228
+    second: Octopath_209
+  - first:
+      213: 1220660518140259519
+    second: Octopath_210
+  - first:
+      213: 7666923150683911995
+    second: Octopath_211
+  - first:
+      213: -5540683653894986881
+    second: Octopath_212
+  - first:
+      213: -6410137521148053376
+    second: Octopath_213
+  - first:
+      213: 6260852687947853191
+    second: Octopath_214
+  - first:
+      213: -5971803887539440959
+    second: Octopath_215
+  - first:
+      213: -1782117838464420737
+    second: Octopath_216
+  - first:
+      213: -3196276802609002437
+    second: Octopath_217
+  - first:
+      213: 891748644357534882
+    second: Octopath_218
+  - first:
+      213: 1927826424333561670
+    second: Octopath_219
+  - first:
+      213: -5313673662032072672
+    second: Octopath_220
+  - first:
+      213: 8566619393845470094
+    second: Octopath_221
+  - first:
+      213: -3926778184843217711
+    second: Octopath_222
+  - first:
+      213: -5167786635685103646
+    second: Octopath_223
+  - first:
+      213: -1470731405317422803
+    second: Octopath_224
+  - first:
+      213: 1321152707573759360
+    second: Octopath_225
+  - first:
+      213: 2983678568308378921
+    second: Octopath_226
+  - first:
+      213: -6355811100481401920
+    second: Octopath_227
+  - first:
+      213: 3369705346599500638
+    second: Octopath_228
+  - first:
+      213: 562788785027755554
+    second: Octopath_229
+  - first:
+      213: 4651841975549067969
+    second: Octopath_230
+  - first:
+      213: 6466374375026200482
+    second: Octopath_231
+  - first:
+      213: -7500865481564504383
+    second: Octopath_232
+  - first:
+      213: 1794453623954938199
+    second: Octopath_233
+  - first:
+      213: -3726350101919720163
+    second: Octopath_234
+  - first:
+      213: 1967781887485950565
+    second: Octopath_235
+  - first:
+      213: 389495397958135821
+    second: Octopath_236
+  - first:
+      213: 7335121832899945333
+    second: Octopath_237
+  - first:
+      213: -2683159751085217263
+    second: Octopath_238
+  - first:
+      213: 2438266158990001395
+    second: Octopath_239
+  - first:
+      213: 7472546772330158674
+    second: Octopath_240
+  - first:
+      213: -7827447273375689637
+    second: Octopath_241
+  - first:
+      213: -9062632414609586132
+    second: Octopath_242
+  - first:
+      213: 199629467980288994
+    second: Octopath_243
+  - first:
+      213: -1578545169614953206
+    second: Octopath_244
+  - first:
+      213: -6712136172266828906
+    second: Octopath_245
+  - first:
+      213: 6708168001470971457
+    second: Octopath_246
+  - first:
+      213: -2816389809043445766
+    second: Octopath_247
+  - first:
+      213: -7679703490714688579
+    second: Octopath_248
+  - first:
+      213: -7785774759924696171
+    second: Octopath_249
+  - first:
+      213: -1540826756471607365
+    second: Octopath_250
+  - first:
+      213: 5275892653267580098
+    second: Octopath_251
+  - first:
+      213: 2269647614263475491
+    second: Octopath_252
+  - first:
+      213: 336324600407760103
+    second: Octopath_253
+  - first:
+      213: 489915917475569358
+    second: Octopath_254
+  - first:
+      213: -5563226143658354437
+    second: Octopath_255
+  - first:
+      213: 1500503122506966084
+    second: Octopath_256
+  - first:
+      213: 7850991248168706333
+    second: Octopath_257
+  - first:
+      213: -1735806169883583754
+    second: Octopath_258
+  - first:
+      213: -2438986645507708005
+    second: Octopath_259
+  - first:
+      213: 3516480862157444495
+    second: Octopath_260
+  - first:
+      213: 6507606522497533595
+    second: Octopath_261
+  - first:
+      213: -4378558329146122672
+    second: Octopath_262
+  - first:
+      213: 7076468852623410687
+    second: Octopath_263
+  - first:
+      213: 4470946511597969022
+    second: Octopath_264
+  - first:
+      213: 6009941979605744692
+    second: Octopath_265
+  - first:
+      213: 5011904062138700299
+    second: Octopath_266
+  - first:
+      213: 3739006071561834605
+    second: Octopath_267
+  - first:
+      213: -8045198041419029772
+    second: Octopath_268
+  - first:
+      213: 188531904819783593
+    second: Octopath_269
+  - first:
+      213: -618391347700610008
+    second: Octopath_270
+  - first:
+      213: 2012547217115136136
+    second: Octopath_271
+  - first:
+      213: -3541507893558319680
+    second: Octopath_272
+  - first:
+      213: 7896423616383043491
+    second: Octopath_273
+  - first:
+      213: 425303323376377586
+    second: Octopath_274
+  - first:
+      213: -7487879252055840612
+    second: Octopath_275
+  - first:
+      213: -4853680847441018329
+    second: Octopath_276
+  - first:
+      213: -4212905206764739825
+    second: Octopath_277
+  - first:
+      213: 3124607917789016170
+    second: Octopath_278
+  - first:
+      213: -7022659665044963192
+    second: Octopath_279
+  - first:
+      213: -8742206310103968342
+    second: Octopath_280
+  - first:
+      213: 4901324371975989767
+    second: Octopath_281
+  - first:
+      213: -6194151463402905465
+    second: Octopath_282
+  - first:
+      213: -6576932394444912887
+    second: Octopath_283
+  - first:
+      213: 3793215912841300292
+    second: Octopath_284
+  - first:
+      213: -8357734685968557742
+    second: Octopath_285
+  - first:
+      213: 6839475215634471927
+    second: Octopath_286
+  - first:
+      213: 8065815956169153432
+    second: Octopath_287
+  - first:
+      213: -8805207818192142334
+    second: Octopath_288
+  - first:
+      213: 4785369215546712602
+    second: Octopath_289
+  - first:
+      213: 7528773851886451302
+    second: Octopath_290
+  - first:
+      213: 4937245596185614269
+    second: Octopath_291
+  - first:
+      213: 1484988235477205645
+    second: Octopath_292
+  - first:
+      213: 3909650243076582288
+    second: Octopath_293
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Octopath_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6a72268f1c27520800000000000000
+      internalID: 2698432399291164320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 477
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122bcfd8a7246fa30800000000000000
+      internalID: 4248656392606233121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 477
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56add52e46a605d0800000000000000
+      internalID: -3096604839197694371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f799ebb8488e1ef0800000000000000
+      internalID: -135521092802865159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc7fba5d20b00180800000000000000
+      internalID: -9151120733974332195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 477
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920503084831ac330800000000000000
+      internalID: 3731816701037137961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 477
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d74938b84c32110800000000000000
+      internalID: 1235046826316692773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 477
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0e078ccf705b6d0800000000000000
+      internalID: -2975463196532350725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd342c13f1f39c00800000000000000
+      internalID: 906333976483085765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d9397084682b730800000000000000
+      internalID: 4013417861863415052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd8cb9d0c7444710800000000000000
+      internalID: 1676543854900973054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 478
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cec7f521e6641bf0800000000000000
+      internalID: -354545353464754490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 481
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb07014c7c399fb80800000000000000
+      internalID: -8360488747039428420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baebd1eadf0cb910800000000000000
+      internalID: 1854374579336374961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 482
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394f0306356a8c640800000000000000
+      internalID: 5100509455023404179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 482
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4843f6f16e53d40800000000000000
+      internalID: 5563605937370203383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 481
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70eef8688327e3d0800000000000000
+      internalID: -3177531943302537091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 479
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4585ace756839f60800000000000000
+      internalID: 8039917471977014606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d565c8b80e1c3cf10800000000000000
+      internalID: 2288886205792409181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 478
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a678afc3bfbb810800000000000000
+      internalID: 1782294316874951250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 481
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aac8d0c33a7d780800000000000000
+      internalID: -8658272280275801532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639427c203eb1a40800000000000000
+      internalID: 5340111384248357739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 482
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9fcf1dacc1a2bb0800000000000000
+      internalID: -4960120382163191325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518135f876fb8cb0800000000000000
+      internalID: -4860520373446147756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 446
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea4b8bd87cd80ff0800000000000000
+      internalID: -69563382586717459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 444
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb008294dc494c0800000000000000
+      internalID: -4281571631635054959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 445
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c5e365e4b61c290800000000000000
+      internalID: -7871892689468367750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 445
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e4cbffbee734a10800000000000000
+      internalID: 1892495820498685465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b065df57269d6bf60800000000000000
+      internalID: 8049860400880899595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba710b399ec68500800000000000000
+      internalID: 398232774584138425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57508228537b5a30800000000000000
+      internalID: 4205081499453642587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22d8eeab742c4a00800000000000000
+      internalID: 742008152243360303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bf424b8d6e1f370800000000000000
+      internalID: 8354712602158627611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f4b67c4d493160800000000000000
+      internalID: 7005715686155942017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 442
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd882e22add7dfde0800000000000000
+      internalID: -1297742741771220772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 442
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d6e8e5557221a80800000000000000
+      internalID: -8497686299282608853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec38e2fb3e20d610800000000000000
+      internalID: 1643864699003485421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7778fce4d29130800000000000000
+      internalID: 3572151568704174613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9a309793756ab50800000000000000
+      internalID: 6604061807940446671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaebe732b0b719a0800000000000000
+      internalID: -6262342477346510132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716d3ca03aac3af00800000000000000
+      internalID: 1126967133381842455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e0084584f854970800000000000000
+      internalID: 8738548192800411203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a2f64caf312c30800000000000000
+      internalID: 4332814325664359632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4557af6201ac1e0800000000000000
+      internalID: -2176909710283418391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_44
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 442
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98667956d145a8fd0800000000000000
+      internalID: -2338964571230345591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_45
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 443
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac936b2d4eeb197e0800000000000000
+      internalID: -1760416089328174646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_46
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 444
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83ad31945ad792c0800000000000000
+      internalID: -4424828052119379057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c3dd65a9da2460800000000000000
+      internalID: 7217820657350067697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657fe5ed6293a2290800000000000000
+      internalID: -7914450556047919274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d240d9412a7990c30800000000000000
+      internalID: 4326155639452402733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 408
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1afb993e1cb49370800000000000000
+      internalID: 8328488448916453919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e17ce3f72667480800000000000000
+      internalID: -8901819314797601205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 408
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71873c3d3d20bf7e0800000000000000
+      internalID: -1730786522979665897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 409
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa7f2076d030eb0800000000000000
+      internalID: -4754942045490533881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ca7274c250824d0800000000000000
+      internalID: -3159269450869920736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_55
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e152e2f1b78d780800000000000000
+      internalID: -8658034909771391473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510836b1472160b30800000000000000
+      internalID: 4253107187983024149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 408
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec496473c3440eb0800000000000000
+      internalID: -4754600799845659409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_58
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 408
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa53a3bce1b34ab0800000000000000
+      internalID: -5024977129031116113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 399
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76900d82aefa63aa0800000000000000
+      internalID: -6181560018277496473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 411
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d29f518caa86e6b0800000000000000
+      internalID: -5267370240653684012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 412
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47feeb0642b1ba4c0800000000000000
+      internalID: -4275293578202255500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_62
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 412
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f510ef1f272930800000000000000
+      internalID: 4118312198203634978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 411
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800ddace86b0f1f80800000000000000
+      internalID: -8133769856732508152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_64
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 409
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f17289d1f32fde40800000000000000
+      internalID: 5683300776408150521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1bd6653d2d1dbb0800000000000000
+      internalID: -4912913913354538537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 356
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6b51c74e7621440800000000000000
+      internalID: 4905097175191893681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_67
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 368
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c6b53bf43f31180800000000000000
+      internalID: -9145698894622266225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 369
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5532c161905fe2d10800000000000000
+      internalID: 2102887495403053909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_69
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 369
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a5afef37449fb0800000000000000
+      internalID: -4642006975983017294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 368
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c85b6cc575a770800000000000000
+      internalID: 8621426582505440663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 366
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10732250a7f9885b0800000000000000
+      internalID: -5365863609590991103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 367
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aff5c3142aaa840800000000000000
+      internalID: 5236175917841119758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 367
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0736e8d2054e770800000000000000
+      internalID: 8639118141796085983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 364
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d05693b6c075d00800000000000000
+      internalID: 961250700130848005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_75
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 364
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3336c8f86d1435220800000000000000
+      internalID: 2473393010143683379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 364
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d4a31c4f9444fa0800000000000000
+      internalID: -5817443503093166740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 364
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca8d5875017c2790800000000000000
+      internalID: -7553538206698992952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_78
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 364
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a0212c7e0495e0800000000000000
+      internalID: -1903880816176357313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_79
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 364
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a6581da30260b0800000000000000
+      internalID: -5737018933344032346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_80
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 366
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76fda3250df75dc0800000000000000
+      internalID: -3650170774445230467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_81
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 366
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be97e61b37c47e0800000000000000
+      internalID: -1779920546818299000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 365
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b458760b6bf41860800000000000000
+      internalID: 7499895716567340214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a732340da58cc38f0800000000000000
+      internalID: -559351961334111366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 341
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12921e0cd94569450800000000000000
+      internalID: 6095152182215125281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b30239301cbce580800000000000000
+      internalID: -8796449194296343628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 322
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99d9b3e80495a2e0800000000000000
+      internalID: -2115121684079322722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_87
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 322
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab44f89b4ea23db0800000000000000
+      internalID: -4813593411993711700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e127fcb455cc950800000000000000
+      internalID: 6470640548715830789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_89
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1b6fc84e6aa31e0800000000000000
+      internalID: -2217276365978816034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_90
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c873e2c029e6db0800000000000000
+      internalID: -4796735972090344393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75365251a667d0580800000000000000
+      internalID: -8859294693974514857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_92
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102c0bb845718d2f0800000000000000
+      internalID: -947982069673180671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_93
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb54a649f95bf640800000000000000
+      internalID: 5114780728976235471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_94
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bde8257a4b383a0800000000000000
+      internalID: -6664284392840569997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f62d5b7d7ded7330800000000000000
+      internalID: 3710382791219554040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_96
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4fd17a1be2ae820800000000000000
+      internalID: 2948220246615258330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_97
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0222ac180fb081c90800000000000000
+      internalID: -7198990876754173408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6143f2824cc0f3a0800000000000000
+      internalID: -6633577665079852693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_99
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52be54b9c148860800000000000000
+      internalID: 7531175930088859058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_100
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d39298d2367bcd0800000000000000
+      internalID: -2542454417401496274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_101
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 321
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c75b1786ab31d8c0800000000000000
+      internalID: -3976331409574111288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_102
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 321
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7ed33986d0c0e0800000000000000
+      internalID: -2251563928916165038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_103
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4fbab14f266390800000000000000
+      internalID: -7825515343157178446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_104
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df3f5aba002efd0800000000000000
+      internalID: -2314286521291375267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b742b8bc9b9eb80800000000000000
+      internalID: -8364950549000062111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_106
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb3d0c4ddfd54fc0800000000000000
+      internalID: -3511154192908731451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_107
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f41b95ad72e670800000000000000
+      internalID: 8566547591437023232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_108
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df597ec793112f510800000000000000
+      internalID: 1581345357766825469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2710b43d483ef0800000000000000
+      internalID: -128267700692111481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_110
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3384707d935a6ae00800000000000000
+      internalID: 1055712830504257587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_111
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 286
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f746ff48ebc9fa70800000000000000
+      internalID: 8861337940462553078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_112
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 286
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53fa4d4a52baf700800000000000000
+      internalID: 574968003356717915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_113
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 286
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923727dce79449df0800000000000000
+      internalID: -174433676599069911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_114
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 286
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480b5e1c9f5aa1a40800000000000000
+      internalID: 5339762800319639684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_115
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 286
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8044633a0954cf0800000000000000
+      internalID: -268649572094179074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_116
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 286
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84afd50190823dc0800000000000000
+      internalID: -3660722186741635957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_117
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 286
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9b148efb713b1e0800000000000000
+      internalID: -2183375281341744724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_118
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43162a877b2952160800000000000000
+      internalID: 7000162512517882164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_119
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c1a799ead30b970800000000000000
+      internalID: 8768576294598876164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_120
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1aca8b39218eb70800000000000000
+      internalID: 8928406686929822143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_121
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f899d2762e2f6d0800000000000000
+      internalID: -2958053072454447270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_122
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ab047a2f023a610800000000000000
+      internalID: 1631183716598462992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_123
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ff71b755bf5ef00800000000000000
+      internalID: 1145598024791621382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_124
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e1c05cf6a4c5f0800000000000000
+      internalID: -737280836365065280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_125
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe18a85ddf1dc40800000000000000
+      internalID: 5535484510608682911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_126
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46a63ed71d307b30800000000000000
+      internalID: 4282990418351007310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_127
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a35d0c086ee790800000000000000
+      internalID: -7498941928552815725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3001d0f37e034810800000000000000
+      internalID: 1748256971474141246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_129
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 251
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d73464a09d4a9bc0800000000000000
+      internalID: -3775620053968078890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_130
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 269
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d11fe36d577130800000000000000
+      internalID: 3564420313881105722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_131
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 269
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de21bd3d6e58b4050800000000000000
+      internalID: 5785865372730856173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 251
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6e1fd6b9d257380800000000000000
+      internalID: -8974216536878094661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 251
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87637f7fdeb28c40800000000000000
+      internalID: 5513178760980162442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_134
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 251
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f6cb33f69d1de90800000000000000
+      internalID: -7002576873951826036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_135
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 251
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436b8304a8b13e50800000000000000
+      internalID: 6787409127997662027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 251
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10349dd8da74050800000000000000
+      internalID: 5784783071127732653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_137
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 251
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1a80c2314456da0800000000000000
+      internalID: -5952276483366411795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_138
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52a852558fe6be0800000000000000
+      internalID: -1481974182772595288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_139
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f303cc0b2ab6a47e0800000000000000
+      internalID: -1780492356176564161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767a377826937fea0800000000000000
+      internalID: -5839135296520476825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_141
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928f9e49d78c87d0800000000000000
+      internalID: -2914805491418824037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_142
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66bbda538d7670f0800000000000000
+      internalID: -1119569454236453270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_143
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee6084436d55ba0800000000000000
+      internalID: -6100734600168411608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_144
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 251
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c76f76d36ad1270800000000000000
+      internalID: 8222911277315816471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_145
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 251
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94d51ca6273d99d0800000000000000
+      internalID: -2765993956900219746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_146
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 251
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d578385ebc476900800000000000000
+      internalID: 677594649350141399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_147
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 251
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1b5b25ad4e2d130800000000000000
+      internalID: 3590183479309349358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_148
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 251
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30f25eab4944f30800000000000000
+      internalID: 4558932253235676075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_149
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 251
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ac2c9f523019a60800000000000000
+      internalID: 7678922301282372140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 216
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e367ed6391faa0800000000000000
+      internalID: -6128955517631731262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_151
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bd8d5fcfaf5d890800000000000000
+      internalID: -7433759645541803139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_152
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 218
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ab9b03caf057170800000000000000
+      internalID: 8175457930787273300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_153
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 216
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0211606da1c7ff4a0800000000000000
+      internalID: -6557386077726437088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_154
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22940ffe97f5a770800000000000000
+      internalID: 8621569323926065706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_155
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 218
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6606a3a3404090800000000000000
+      internalID: -8052361763594278094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_156
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 216
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d169d42ff1e62f20800000000000000
+      internalID: 3397651454848754129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_157
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f51b2827fd262f0800000000000000
+      internalID: -980976085901418630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 218
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc874537c5a3420800000000000000
+      internalID: 2610500584422821695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_159
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 216
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57ace75db618fc0800000000000000
+      internalID: -3494393271163390466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_160
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94062599ed2753a80800000000000000
+      internalID: -8487751622329212855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_161
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 218
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40717fdd83cb0da0800000000000000
+      internalID: -5977469066297642929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_162
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 216
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac3312b330c9d3c0800000000000000
+      internalID: -4334221838103921490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_163
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71565f42b3d955250800000000000000
+      internalID: 5932820961479189783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5e08876b0aa93d0800000000000000
+      internalID: -3199067879727110741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 217
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a5a2a9a06ce5590800000000000000
+      internalID: -7683486165409047938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_166
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9614b1c56226c0800000000000000
+      internalID: -4169658422367183020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_167
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178180b097680f1a0800000000000000
+      internalID: -6777769584758351759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_168
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 217
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de14aba6380375090800000000000000
+      internalID: -8045908868284661267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_169
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1d9810da222af60800000000000000
+      internalID: 8044030010887623110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_170
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ddd025c2aa75b10800000000000000
+      internalID: 1970230469329804609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_171
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 217
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f9ea14f9d6da390800000000000000
+      internalID: -7805462048394010818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_172
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf2a2e3c18a744b0800000000000000
+      internalID: -5456207584280563772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_173
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16179a7580a50bb70800000000000000
+      internalID: 8912722654443172193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_174
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 217
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c95caa7aa45b2db0800000000000000
+      internalID: -4815662285363324476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_175
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 216
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02e28517cd73060800000000000000
+      internalID: 6933252530729001151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711711e8ec3623a00800000000000000
+      internalID: 734759428012732695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_177
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bafb4108beac67e0800000000000000
+      internalID: -1770848448144475472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefd0fed2f4d42c20800000000000000
+      internalID: 3180901376417914860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_179
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec87fb0865f7fae50800000000000000
+      internalID: 6822811969993537742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_180
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 181
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb2a0f2ff364fd0800000000000000
+      internalID: -2358127042230043586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_181
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d868886ea5ffeb30800000000000000
+      internalID: 4318940697098479827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_182
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 181
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff014a586f3cde0800000000000000
+      internalID: -1313935612418392156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_183
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 180
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a09a8060121d12a0800000000000000
+      internalID: -6765231203692146524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7814bb0eddce3e7e0800000000000000
+      internalID: -1737284593532583545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_185
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dfd2a74dc1cbd10800000000000000
+      internalID: 2142619221629992303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_186
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 181
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8369e4fcdce153470800000000000000
+      internalID: 8373632951460468280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_187
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b5ab547804726e0800000000000000
+      internalID: -1862448971159807202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_188
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 181
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292315f0a9a1b0e80800000000000000
+      internalID: -8211440246595702126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_189
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 180
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e45f5f4158d649d0800000000000000
+      internalID: -2790305075373845273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_190
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f5eb5ee35d05160800000000000000
+      internalID: 7012339085935009623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_191
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb6309d65bde3670800000000000000
+      internalID: 8520488711086107612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_192
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 181
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be1045518df8f350800000000000000
+      internalID: 6050864831295135415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_193
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844a8f0a330c15310800000000000000
+      internalID: 1392105087810708552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_194
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 181
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f62c61b2692820800000000000000
+      internalID: 2893952749725480660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_195
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 180
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dab4d655756e050800000000000000
+      internalID: 5829442792095198474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_196
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4e6d01aa30bf740800000000000000
+      internalID: 5186743424809100482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_197
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59acfc0543822c570800000000000000
+      internalID: 8485388853078641301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_198
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 145
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880fdd97703a0a210800000000000000
+      internalID: 1342251941461094536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_199
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7987a243d0bd6b0800000000000000
+      internalID: -5270604421205026832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26c78917158092c0800000000000000
+      internalID: -4426892099446127060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_201
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd66d6c81dfa8f170800000000000000
+      internalID: 8212507235049105119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_202
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578af1f55f0135080800000000000000
+      internalID: -9199990967738849163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_203
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 146
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc90640d0a119f220800000000000000
+      internalID: 2520064848877193677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_204
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 144
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2ea7011ef0aa360800000000000000
+      internalID: 7181570015114224330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_205
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f07fa53435d67e0800000000000000
+      internalID: -1770667529732681863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_206
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81edba7d1d3e11eb0800000000000000
+      internalID: -4750765641493127656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_207
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 144
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a01ccad98006ee0800000000000000
+      internalID: -1270005621617259940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_208
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc29da810ac190e0800000000000000
+      internalID: -2264807029617382211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_209
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 146
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229addac7f733ad0800000000000000
+      internalID: -2723693176159563228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_210
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 144
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc281f1648a0f010800000000000000
+      internalID: 1220660518140259519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_211
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37bbb40cf1666a60800000000000000
+      internalID: 7666923150683911995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_212
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a6c492998b13b0800000000000000
+      internalID: -5540683653894986881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_213
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 145
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088319a03ed9a07a0800000000000000
+      internalID: -6410137521148053376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_214
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d6e28295403e650800000000000000
+      internalID: 6260852687947853191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_215
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c23ae61104ef1da0800000000000000
+      internalID: -5971803887539440959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_216
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 145
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f07a9445a447e0800000000000000
+      internalID: -1782117838464420737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_217
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b384ba0ce2b84a3d0800000000000000
+      internalID: -3196276802609002437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_218
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4fdd7daa0206c00800000000000000
+      internalID: 891748644357534882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_219
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 145
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f630b3be301ca10800000000000000
+      internalID: 1927826424333561670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_220
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020ba3a15f90246b0800000000000000
+      internalID: -5313673662032072672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_221
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83a12863feb2e670800000000000000
+      internalID: 8566619393845470094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_222
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 145
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4baacbb084189c0800000000000000
+      internalID: -3926778184843217711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_223
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e77af85f655848b0800000000000000
+      internalID: -5167786635685103646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_224
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d214b024499e69be0800000000000000
+      internalID: -1470731405317422803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_225
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dbaf4436da55210800000000000000
+      internalID: 1321152707573759360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_226
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d87f389d7286920800000000000000
+      internalID: 2983678568308378921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_227
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 110
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb42588a7f9bc7a0800000000000000
+      internalID: -6355811100481401920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_228
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 109
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b3cc5c82993ce20800000000000000
+      internalID: 3369705346599500638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_229
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e272f0b6d6fc700800000000000000
+      internalID: 562788785027755554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_230
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c28ad751a9ae8040800000000000000
+      internalID: 4651841975549067969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_231
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 108
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0028db3d2db950800000000000000
+      internalID: 6466374375026200482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_232
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 110
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cebb57f59297e790800000000000000
+      internalID: -7500865481564504383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_233
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 110
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7591fb5401e27e810800000000000000
+      internalID: 1794453623954938199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_234
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 109
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d955a4358594cc0800000000000000
+      internalID: -3726350101919720163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_235
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 109
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a3c0f6337fe4b10800000000000000
+      internalID: 1967781887485950565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_236
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 109
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b1f43004c76500800000000000000
+      internalID: 389495397958135821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_237
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 108
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573a632a1769bc560800000000000000
+      internalID: 7335121832899945333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_238
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aa0f02c6083cad0800000000000000
+      internalID: -2683159751085217263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_239
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 110
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f48472372676d120800000000000000
+      internalID: 2438266158990001395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_240
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 109
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a1b3cb2b1d3b760800000000000000
+      internalID: 7472546772330158674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_241
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54975c2d225f5390800000000000000
+      internalID: -7827447273375689637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_242
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c284145b5df0b3280800000000000000
+      internalID: -9062632414609586132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_243
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 108
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35aa581f935c200800000000000000
+      internalID: 199629467980288994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_244
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05213f1881e71ae0800000000000000
+      internalID: -1578545169614953206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_245
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 74
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b4cf7b6b3b9d2a0800000000000000
+      internalID: -6712136172266828906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_246
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 73
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eb1558143381d50800000000000000
+      internalID: 6708168001470971457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_247
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af76feaf36c2ae8d0800000000000000
+      internalID: -2816389809043445766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_248
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3af9f2d563c6590800000000000000
+      internalID: -7679703490714688579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_249
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b7c7d4b1f53f390800000000000000
+      internalID: -7785774759924696171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_250
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfa7188a32ed9ae0800000000000000
+      internalID: -1540826756471607365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_251
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c47b1f4a6cb73940800000000000000
+      internalID: 5275892653267580098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_252
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dbc75ea786f7f10800000000000000
+      internalID: 2269647614263475491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_253
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec9780317ddaa400800000000000000
+      internalID: 336324600407760103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_254
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eced0f66ee78cc600800000000000000
+      internalID: 489915917475569358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_255
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d31e2c437bc2b0800000000000000
+      internalID: -5563226143658354437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_256
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4446461d3abd2d410800000000000000
+      internalID: 1500503122506966084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_257
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11ebc1a1f254fc60800000000000000
+      internalID: 7850991248168706333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_258
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa58253c7d29e7e0800000000000000
+      internalID: -1735806169883583754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_259
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b6796719af62ed0800000000000000
+      internalID: -2438986645507708005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_260
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f859a5886bc0dc030800000000000000
+      internalID: 3516480862157444495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_261
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b960b7747a9af4a50800000000000000
+      internalID: 6507606522497533595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_262
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05edae2f56c3c33c0800000000000000
+      internalID: -4378558329146122672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_263
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff50cb0cdeaa43260800000000000000
+      internalID: 7076468852623410687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_264
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e91990a2efb0e30800000000000000
+      internalID: 4470946511597969022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_265
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cbb1f636a976350800000000000000
+      internalID: 6009941979605744692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_266
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025d18b03cdd8540800000000000000
+      internalID: 5011904062138700299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_267
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d874463e93e330800000000000000
+      internalID: 3739006071561834605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_268
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ec81b107b95090800000000000000
+      internalID: -8045198041419029772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_269
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a76c9fb4cccd9200800000000000000
+      internalID: 188531904819783593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c412c78580b67f0800000000000000
+      internalID: -618391347700610008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_271
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88049d1f7010eeb10800000000000000
+      internalID: 2012547217115136136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_272
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e633a5590adec0800000000000000
+      internalID: -3541507893558319680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_273
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7448a217bb59d60800000000000000
+      internalID: 7896423616383043491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_274
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe54a78e1bf6e500800000000000000
+      internalID: 425303323376377586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_275
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a1342e75b51890800000000000000
+      internalID: -7487879252055840612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_276
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72249233cf244acb0800000000000000
+      internalID: -4853680847441018329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_277
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03e46e0901c885c0800000000000000
+      internalID: -4212905206764739825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_278
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ff2aa856dc5b20800000000000000
+      internalID: 3124607917789016170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_279
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88008860e308a8e90800000000000000
+      internalID: -7022659665044963192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_280
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5131ddda17da680800000000000000
+      internalID: -8742206310103968342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_281
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae7984c80050440800000000000000
+      internalID: 4901324371975989767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_282
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78067e2ef04f90aa0800000000000000
+      internalID: -6194151463402905465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_283
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9070a5555da0ab4a0800000000000000
+      internalID: -6576932394444912887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_284
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c34186c534a430800000000000000
+      internalID: 3793215912841300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_285
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25912e3959c530c80800000000000000
+      internalID: -8357734685968557742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_286
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb1bf5b872baee50800000000000000
+      internalID: 6839475215634471927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_287
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bd32ba0e88fef60800000000000000
+      internalID: 8065815956169153432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_288
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2004a2f242e9dc580800000000000000
+      internalID: -8805207818192142334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_289
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1260c392fb096240800000000000000
+      internalID: 4785369215546712602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_290
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66af0fbdde39b7860800000000000000
+      internalID: 7528773851886451302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_291
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7518906be948440800000000000000
+      internalID: 4937245596185614269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_292
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82c04faeecbb9410800000000000000
+      internalID: 1484988235477205645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Octopath_293
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b699e8e2ed14630800000000000000
+      internalID: 3909650243076582288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
